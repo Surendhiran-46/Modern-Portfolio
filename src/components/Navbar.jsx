@@ -73,7 +73,7 @@ export default function Navbar() {
           {/* Resume Download */}
           <li>
             <a
-              href="/SurendhiranM_Updated_Resume.pdf"
+              href="/Surendhiran_M_Resume Final.pdf"
               download
               className="bg-indigo-600 text-white px-3 py-1 rounded hover:bg-indigo-700 transition"
             >
