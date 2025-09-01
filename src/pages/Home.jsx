@@ -28,7 +28,7 @@ export default function Home() {
             View Projects
           </Link>
           <a
-            href="/SurendhiranM_Updated_Resume.pdf"
+            href="/Surendhiran_M_Resume Final.pdf"
             download
             className="border border-indigo-600 text-indigo-600 dark:text-indigo-400 dark:border-indigo-400 px-5 py-2 rounded-md hover:bg-indigo-100 dark:hover:bg-gray-800 transition"
           >
